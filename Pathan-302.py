@@ -1855,8 +1855,7 @@ def results():
     global token
     cek_ok = open("Subhanok.txt","r").read()
     cek_cp = open("Subhancp.txt","r").read()
-    print("\n %s[%s1%s] NAAM TO SONA HOGA [SUBHAN]"
-    print("\n %s[%s1%s] Result OK\n %s[%s2%s] Result CP\n %s[%s0%s] Back to menu"%(p,k,p,p,k,p,p,k,p"))
+    print("\n %s[%s1%s] Result OK\n %s[%s2%s] Result CP\n %s[%s0%s] Back to menu"%(p,k,p,p,k,p,p,k,p))
     cek_ress = raw_input("\n \033[4;33mChoose%s:\x1b[0m\n %s➤%s➤%s➤%s➤ %s"%(p,m,k,h,b,p"))
     if cek_ress in ["1","01"]:
         if len(cek_ok) != 0:
