@@ -25,12 +25,23 @@ pkg install figlet
 
 pip2 install ipaddress
 
-git clone https://github.com/SubhanXPathan/Dr-Subhan.git
+git clone https://github.com/SubhanXKhan/Mr-Pathan.git
 
 ls
 
-cd Dr-Subhan
+cd Mr-Pathan
 
 ls
 
-python2 Criminal.py
+python2 Pathan-302.py
+
+
+
+#RUNNING
+____________________________
+
+cd Mr-Pathan
+python2 Pathan-302.py
+
+____________________________
+
