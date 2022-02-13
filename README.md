@@ -40,7 +40,9 @@ python2 Pathan-302.py
 #RUNNING
 ____________________________
 
-cd Mr-Pathan
+cd Mr-Pathan 
+
+
 python2 Pathan-302.py
 
 ____________________________
