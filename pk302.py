@@ -418,7 +418,7 @@ def menu():
     else:print("\n%s [%s!%s] Unknown!"%(p,m,p));time.sleep(1);menu()
     
 #different path
-import requests, sys, os, random, proff
+
 from requests.exceptions import ConnectionError
 komen1 = random.choice(['Bang Lu Ngntd!', 'Bang aku mau cerita nih bang Kemarin kan ada cewek ya bang yang minta sv terus aku jadian bang sama dia Udah 3 tahun berpacaran lewat wa bang Lha terus aku baru tau kalo dia itu berbatang :( asyuuu og :( ', 'Bang Lu Cakep Tapi Sayang Kaya Kntl', 'Abang jaga kesehatan ya biar gak sakit Nanti kalau abang sakit yang nyakitin aku siapa?', 'Dah Lah Abng Cakep Banget :) ', 'Bang kemarin lu ngentod sama siapa bang? enak banget asyu aku gak di ajak', 'Bang yok ngentod', 'Semoga Abang Dan Keluarga Masuk Surga :)', 'Bang sebenernya lu cakep bang tapi sayang kayak pejuh :v', 'Semoga Abang Sukses', 'Abang kok ganteng banget ya bang ', 'buah mangga buah durian i love u bang :v', 'Hiiih abang jomblo ya? kasian bet dah :v', 'Wih Panutan Gua Nih', 'Bang prof kentod:v', 'Makan sayur di terminal Abang kayak marjinal:v'])
 komen2 = random.choice(['Bang lu cakep tapi sayang kayak pejuh:v', 'Mantap Bang', 'bang lu kgk punya pacar?', 'Bang Lu Cakep Tapi Sayang Kaya Kntl', 'MengKeren Lah Bang', 'Semangat Bang!', 'Gua Murid Lu Bang', 'Tumben Post Bang?', 'Hii abang gak punya pacar :v', 'Abang kemarin yang ngentod dipinggir jalan itu kan? ', 'Semoga Abang Jadi Orang Sukses', 'Bjir Ganteng Kali Kau Bang'])
